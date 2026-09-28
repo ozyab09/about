@@ -7,7 +7,8 @@
 > сохранена исключительно в личных целях (защита от удаления) и опубликована в
 > объёме цитирования.
 
-Живая страница: https://ozyab09.github.io/otus-devops-post-692/
+Живая страница: https://ozyab09.github.io/about/
+Репозиторий: https://github.com/ozyab09/about
 
 ## О чём статья
 
@@ -22,7 +23,7 @@
 ├── index.html      # одностраничная копия статьи (GitHub Pages)
 ├── assets/
 │   ├── cover.png   # обложка
-│   ├── pipeline.jpg# схема pipeline
+│   ├── pipeline.jpg  # схема pipeline
 │   └── traefik.jpg # схема работы Traefik
 └── README.md
 ```
